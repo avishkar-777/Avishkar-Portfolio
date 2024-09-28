@@ -79,3 +79,23 @@
     }
     
 } 
+
+@media (max-width: 320px){
+
+    .skills-info-card-main{
+        width: 100%;
+    }
+    
+    .skills-container {
+        padding-right : 2rem;
+        position: relative;
+        padding-left: 4rem;
+    }
+
+    .skills-content {
+        display: flex;
+        align-items: normal;
+        gap: 3rem;
+    }
+
+}

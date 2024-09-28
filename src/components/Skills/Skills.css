@@ -70,14 +70,14 @@
        gap: 3rem;
     }
 
-    /* .skills,
+    .skills,
     .skills-info{
         width: 100%;
-    } */
+    } 
 
-    /* .skills-info{
+     .skills-info{
         justify-content: space-around;
-    } */
+    }
     .skills-container h5{
         font-size: 1.3rem;
         margin-bottom: 2rem;
@@ -92,5 +92,30 @@
 
 @media (max-width : 600px){
 
+    .skills-container{
+        padding: 0;
+    }
+
+}
+
+@media (max-width : 600px){
+
+    .skills-container{
+        padding: 0;
+    }
+
+}
+@media (max-width: 320px){
+    skills-container {
+        padding-right : 2rem;
+        position: relative;
+        padding-left: 4rem;
+    }
+
+    .skills-content {
+        display: flex;
+        align-items: normal;
+        gap: 3rem;
+    }
 
 }
