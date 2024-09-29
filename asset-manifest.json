@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/Avishkar-Portfolio/static/css/main.bdbfaf0a.css",
-    "main.js": "/Avishkar-Portfolio/static/js/main.48535724.js",
+    "main.css": "/Avishkar-Portfolio/static/css/main.7542c0c4.css",
+    "main.js": "/Avishkar-Portfolio/static/js/main.7ca7f65b.js",
     "static/js/453.bb257cf5.chunk.js": "/Avishkar-Portfolio/static/js/453.bb257cf5.chunk.js",
+    "static/media/slick.svg": "/Avishkar-Portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Avishkar-Portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Avishkar-Portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Avishkar-Portfolio/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Avishkar-Portfolio/index.html",
-    "main.bdbfaf0a.css.map": "/Avishkar-Portfolio/static/css/main.bdbfaf0a.css.map",
-    "main.48535724.js.map": "/Avishkar-Portfolio/static/js/main.48535724.js.map",
+    "main.7542c0c4.css.map": "/Avishkar-Portfolio/static/css/main.7542c0c4.css.map",
+    "main.7ca7f65b.js.map": "/Avishkar-Portfolio/static/js/main.7ca7f65b.js.map",
     "453.bb257cf5.chunk.js.map": "/Avishkar-Portfolio/static/js/453.bb257cf5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bdbfaf0a.css",
-    "static/js/main.48535724.js"
+    "static/css/main.7542c0c4.css",
+    "static/js/main.7ca7f65b.js"
   ]
 }
