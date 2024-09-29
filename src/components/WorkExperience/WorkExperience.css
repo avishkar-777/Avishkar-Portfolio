@@ -1,0 +1,11 @@
+.experience-container{
+    padding:4rem;
+    position: relative;
+
+}
+
+.experience-container h5{
+    font-size: 1.5rem;
+    font-weight: 600;
+    padding-bottom: 3rem;
+}

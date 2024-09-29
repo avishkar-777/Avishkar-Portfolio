@@ -98,13 +98,27 @@
 
 }
 
-@media (max-width : 600px){
 
-    .skills-container{
-        padding: 0;
+@media (max-width: 375px){
+    .skills-container {
+        padding-right : 1rem;
+        position: relative;
+        /* padding-left: 3rem; */
+    }
+
+    .skills-content {
+        display: inline-grid;
+        align-items: center;
+        gap: 2rem;
+    }
+
+    .skills{
+        width: 100%;
+        display: grid;
     }
 
 }
+
 @media (max-width: 320px){
     skills-container {
         padding-right : 2rem;
@@ -116,6 +130,10 @@
         display: flex;
         align-items: normal;
         gap: 3rem;
+    }
+    .skills{
+        width: 320px;
+        display: contents;
     }
 
 }
